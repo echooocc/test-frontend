@@ -14,3 +14,5 @@
  - single store per app makes the simple project easy to maintain
  - reducder as pure functions makes debugging and state track predicable
  - variate and good community support
+  
+    Hello, world!
